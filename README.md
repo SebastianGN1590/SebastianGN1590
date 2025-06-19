@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bichos1506@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/snct0r1o4b25](https://flowcv.com/resume/snct0r1o4b25)
+- 📄 Know about my experiences https://flowcv.com/resume/snct0r1o4b25
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
