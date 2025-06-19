@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">A passionate frontend developer from Mexico with a strong background in graphic and editorial design.</h3>
+<h3 align="center">Frontend developer from Mexico with a strong background in graphic, web, and editorial design.</h3>
 
-- 🔭 I’m currently working on [Workland](https://github.com/Irvin-Mx/workland)
-
-- 👯 I’m looking to collaborate on **frontend developer**
-
-- 🤝 I’m looking for help with **learning AI technologies implemented in websites.**
-
-- 💬 Ask me about **interface design, frontend, and UX/UI — always ready to share ideas and learn together.**
-
-- 📫 How to reach me **bichos1506@gmail.com**
-
-- 📄 Know about my experiences https://flowcv.com/resume/snct0r1o4b25
+- 🔭 I’m currently working on [Workland](https://github.com/Irvin-Mx/workland) — a freelance platform.
+  
+- 👨‍💻 I’m open to collaborating on **frontend development projects**.
+  
+- 🤖 I’m interested in learning how **AI technologies are implemented in websites**.
+  
+- 💬 Ask me about **UX/UI, interface design, and frontend development** — always happy to share and learn.
+  
+- 📫 Reach me at: **bichos1506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebasgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasgn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebasgn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasgn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
